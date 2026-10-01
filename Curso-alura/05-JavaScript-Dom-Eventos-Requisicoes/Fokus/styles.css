@@ -250,17 +250,12 @@ h6 {
   position: absolute;
   visibility: hidden;
 }
-
-/* fim - toggle */
-
-/* Para Tablets */
 @media (max-width: 1024px) and (min-width: 768px) {
   .app__section-banner-container {
     width: 48rem;
   }
 }
 
-/* Para Celulares */
 @media (max-width: 767px) {
   .app__section-banner-container {
     width: 32rem;
@@ -315,9 +310,7 @@ h6 {
   gap: 0.8rem;
 }
 
-/* fim - dropdown */
 
-/* Para Celulares */
 @media (max-width: 767px) {
   .app__section-banner-container {
     width: 32rem;
